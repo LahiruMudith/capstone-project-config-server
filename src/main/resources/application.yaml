@@ -13,7 +13,5 @@ spring:
             - classpath:/configurations
             - classpath:/configurations/platform
             - classpath:/configurations/services
-
 server:
   port: 9000
-
